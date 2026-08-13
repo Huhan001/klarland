@@ -1,0 +1,2468 @@
+[
+  {
+    "id": "de-001",
+    "number": 1,
+    "question": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil ...",
+    "answer": "hier Meinungsfreiheit gilt.",
+    "questionEnglish": "In Germany, people are allowed to openly speak against the government because …",
+    "answerEnglish": "freedom of speech applies here."
+  },
+  {
+    "id": "de-002",
+    "number": 2,
+    "question": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am ...",
+    "answer": "Religionsunterricht teilnimmt.",
+    "questionEnglish": "In Germany, parents can decide until their child's 14th birthday whether they participate in … at school.",
+    "answerEnglish": "religious education classes."
+  },
+  {
+    "id": "de-003",
+    "number": 3,
+    "question": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+    "answer": "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
+    "questionEnglish": "Germany is a constitutional state (Rechtsstaat). What does this mean?",
+    "answerEnglish": "All residents and the state must abide by the laws."
+  },
+  {
+    "id": "de-004",
+    "number": 4,
+    "question": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "answer": "Meinungsfreiheit",
+    "questionEnglish": "Which right is one of the fundamental rights in Germany?",
+    "answerEnglish": "Freedom of speech"
+  },
+  {
+    "id": "de-005",
+    "number": 5,
+    "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+    "answer": "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+    "questionEnglish": "Elections in Germany are free. What does this mean?",
+    "answerEnglish": "Voters may not be influenced or forced to vote a certain way, and must not suffer any disadvantages from voting."
+  },
+  {
+    "id": "de-006",
+    "number": 6,
+    "question": "Wie heißt die deutsche Verfassung?",
+    "answer": "Grundgesetz",
+    "questionEnglish": "What is the German constitution called?",
+    "answerEnglish": "Basic Law (Grundgesetz)"
+  },
+  {
+    "id": "de-007",
+    "number": 7,
+    "question": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf ...",
+    "answer": "Glaubens- und Gewissensfreiheit",
+    "questionEnglish": "Which right is among the fundamental rights guaranteed by the German constitution? The right to …",
+    "answerEnglish": "freedom of faith and conscience"
+  },
+  {
+    "id": "de-008",
+    "number": 8,
+    "question": "Was steht nicht im Grundgesetz von Deutschland?",
+    "answer": "Alle sollen gleich viel Geld haben.",
+    "questionEnglish": "What is NOT in the German Basic Law?",
+    "answerEnglish": "Everyone should have equal amounts of money."
+  },
+  {
+    "id": "de-009",
+    "number": 9,
+    "question": "Welches Grundrecht gilt in Deutschland nur für Ausländerinnen/Ausländer? Das Grundrecht auf ...",
+    "answer": "Asyl",
+    "questionEnglish": "Which fundamental right in Germany applies only to foreigners? The fundamental right to …",
+    "answerEnglish": "asylum"
+  },
+  {
+    "id": "de-010",
+    "number": 10,
+    "question": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+    "answer": "die Geldstrafe",
+    "questionEnglish": "What is compatible with the German Basic Law?",
+    "answerEnglish": "fines"
+  },
+  {
+    "id": "de-011",
+    "number": 11,
+    "question": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+    "answer": "Grundgesetz",
+    "questionEnglish": "What is the constitution of the Federal Republic of Germany called?",
+    "answerEnglish": "Basic Law (Grundgesetz)"
+  },
+  {
+    "id": "de-012",
+    "number": 12,
+    "question": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+    "answer": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+    "questionEnglish": "A party in the German Bundestag wants to abolish freedom of the press. Is that possible?",
+    "answerEnglish": "No, because freedom of the press is a fundamental right. It cannot be abolished."
+  },
+  {
+    "id": "de-013",
+    "number": 13,
+    "question": "Im Parlament steht der Begriff \"Opposition\" für ...",
+    "answer": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+    "questionEnglish": "In parliament, the term 'opposition' refers to…",
+    "answerEnglish": "all members of parliament who do not belong to the governing party/parties."
+  },
+  {
+    "id": "de-014",
+    "number": 14,
+    "question": "Meinungsfreiheit in Deutschland heißt, dass ich ...",
+    "answer": "meine Meinung im Internet äußern kann.",
+    "questionEnglish": "Freedom of speech in Germany means, for example, that I …",
+    "answerEnglish": "can express my opinion on the internet."
+  },
+  {
+    "id": "de-015",
+    "number": 15,
+    "question": "Was verbietet das deutsche Grundgesetz?",
+    "answer": "Zwangsarbeit",
+    "questionEnglish": "What does the German Basic Law prohibit?",
+    "answerEnglish": "Forced labor"
+  },
+  {
+    "id": "de-016",
+    "number": 16,
+    "question": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+    "answer": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+    "questionEnglish": "When is freedom of speech restricted in Germany?",
+    "answerEnglish": "when publicly spreading false claims about individuals"
+  },
+  {
+    "id": "de-017",
+    "number": 17,
+    "question": "Die deutschen Gesetze verbieten ...",
+    "answer": "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat.",
+    "questionEnglish": "German laws prohibit …",
+    "answerEnglish": "unequal treatment of citizens by the state."
+  },
+  {
+    "id": "de-018",
+    "number": 18,
+    "question": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+    "answer": "die Unantastbarkeit der Menschenwürde",
+    "questionEnglish": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+    "answerEnglish": "the inviolability of human dignity"
+  },
+  {
+    "id": "de-019",
+    "number": 19,
+    "question": "Was versteht man unter dem Recht der \"Freizügigkeit\" in Deutschland?",
+    "answer": "Man darf sich seinen Wohnort selbst aussuchen.",
+    "questionEnglish": "What is meant by the right of 'freedom of movement' in Germany?",
+    "answerEnglish": "You may choose your own place of residence."
+  },
+  {
+    "id": "de-020",
+    "number": 20,
+    "question": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann ...",
+    "answer": "verfassungswidrig.",
+    "questionEnglish": "A party in Germany pursues the goal of establishing a dictatorship. It is then …",
+    "answerEnglish": "unconstitutional."
+  },
+  {
+    "id": "de-021",
+    "number": 21,
+    "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+    "answer": "Bild 1",
+    "questionEnglish": "Which is the coat of arms of the Federal Republic of Germany?",
+    "answerEnglish": "1",
+    "questionImage": {
+      "src": "/images/general/21.png",
+      "alt": "Offizielle Abbildung zu Frage 21",
+      "width": 200,
+      "height": 200
+    }
+  },
+  {
+    "id": "de-022",
+    "number": 22,
+    "question": "Was für eine Staatsform hat Deutschland?",
+    "answer": "Republik",
+    "questionEnglish": "What form of government does Germany have?",
+    "answerEnglish": "Republic"
+  },
+  {
+    "id": "de-023",
+    "number": 23,
+    "question": "In Deutschland sind die meisten Erwerbstätigen ...",
+    "answer": "bei einer Firma oder Behörde beschäftigt.",
+    "questionEnglish": "In Germany, most employed people are …",
+    "answerEnglish": "employed by a company or government agency."
+  },
+  {
+    "id": "de-024",
+    "number": 24,
+    "question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+    "answer": "16",
+    "questionEnglish": "How many federal states does the Federal Republic of Germany have?",
+    "answerEnglish": "16"
+  },
+  {
+    "id": "de-025",
+    "number": 25,
+    "question": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+    "answer": "Elsass-Lothringen",
+    "questionEnglish": "What is NOT a federal state of the Federal Republic of Germany?",
+    "answerEnglish": "Alsace-Lorraine"
+  },
+  {
+    "id": "de-026",
+    "number": 26,
+    "question": "Deutschland ist ...",
+    "answer": "ein demokratischer und sozialer Bundesstaat.",
+    "questionEnglish": "Germany is …",
+    "answerEnglish": "a democratic and social federal state."
+  },
+  {
+    "id": "de-027",
+    "number": 27,
+    "question": "Deutschland ist ...",
+    "answer": "ein Bundesstaat.",
+    "questionEnglish": "Germany is …",
+    "answerEnglish": "a federal state."
+  },
+  {
+    "id": "de-028",
+    "number": 28,
+    "question": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+    "answer": "das wahlberechtigte Volk",
+    "questionEnglish": "Who elects the members of the Bundestag in Germany?",
+    "answerEnglish": "the eligible voters"
+  },
+  {
+    "id": "de-029",
+    "number": 29,
+    "question": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+    "answer": "Adler",
+    "questionEnglish": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+    "answerEnglish": "Eagle"
+  },
+  {
+    "id": "de-030",
+    "number": 30,
+    "question": "Was ist kein Merkmal unserer Demokratie?",
+    "answer": "Pressezensur",
+    "questionEnglish": "What is NOT a characteristic of our democracy?",
+    "answerEnglish": "press censorship"
+  },
+  {
+    "id": "de-031",
+    "number": 31,
+    "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...",
+    "answer": "Koalition.",
+    "questionEnglish": "The cooperation of parties to form a government is called in Germany …",
+    "answerEnglish": "Coalition."
+  },
+  {
+    "id": "de-032",
+    "number": 32,
+    "question": "Was ist keine staatliche Gewalt in Deutschland?",
+    "answer": "Presse",
+    "questionEnglish": "What is NOT a state power in Germany?",
+    "answerEnglish": "Press"
+  },
+  {
+    "id": "de-033",
+    "number": 33,
+    "question": "Welche Aussage ist richtig? In Deutschland ...",
+    "answer": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+    "questionEnglish": "Which statement is correct? In Germany …",
+    "answerEnglish": "the state and religious communities are separated from each other."
+  },
+  {
+    "id": "de-034",
+    "number": 34,
+    "question": "Was ist Deutschland nicht?",
+    "answer": "eine Monarchie",
+    "questionEnglish": "What is Germany NOT?",
+    "answerEnglish": "a monarchy"
+  },
+  {
+    "id": "de-035",
+    "number": 35,
+    "question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+    "answer": "Sozialabgaben",
+    "questionEnglish": "How does the German state finance social insurance?",
+    "answerEnglish": "Social security contributions"
+  },
+  {
+    "id": "de-036",
+    "number": 36,
+    "question": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+    "answer": "die Krankenversicherung",
+    "questionEnglish": "Which measure creates social security in Germany?",
+    "answerEnglish": "health insurance"
+  },
+  {
+    "id": "de-037",
+    "number": 37,
+    "question": "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?",
+    "answer": "Ministerpräsidentin/Ministerpräsident",
+    "questionEnglish": "What are the heads of government of most federal states in Germany called?",
+    "answerEnglish": "Minister-President"
+  },
+  {
+    "id": "de-038",
+    "number": 38,
+    "question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer ...",
+    "answer": "Bundesstaat.",
+    "questionEnglish": "The Federal Republic of Germany is a democratic and social …",
+    "answerEnglish": "federal state."
+  },
+  {
+    "id": "de-039",
+    "number": 39,
+    "question": "Was hat jedes deutsche Bundesland?",
+    "answer": "eine eigene Regierung",
+    "questionEnglish": "What does every German federal state have?",
+    "answerEnglish": "its own government"
+  },
+  {
+    "id": "de-040",
+    "number": 40,
+    "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+    "answer": "Einigkeit und Recht und Freiheit ...",
+    "questionEnglish": "With which words does the German national anthem begin?",
+    "answerEnglish": "Unity and justice and freedom …"
+  },
+  {
+    "id": "de-041",
+    "number": 41,
+    "question": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+    "answer": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+    "questionEnglish": "Why are there more than one party in a democracy?",
+    "answerEnglish": "because this allows the different opinions of citizens to be represented"
+  },
+  {
+    "id": "de-042",
+    "number": 42,
+    "question": "Wer beschließt in Deutschland ein neues Gesetz?",
+    "answer": "das Parlament",
+    "questionEnglish": "Who passes a new law in Germany?",
+    "answerEnglish": "the parliament"
+  },
+  {
+    "id": "de-043",
+    "number": 43,
+    "question": "Wann kann in Deutschland eine Partei verboten werden?",
+    "answer": "wenn sie gegen die Verfassung kämpft",
+    "questionEnglish": "When can a party be banned in Germany?",
+    "answerEnglish": "if it fights against the constitution"
+  },
+  {
+    "id": "de-044",
+    "number": 44,
+    "question": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
+    "answer": "Die Bundespräsidentin/den Bundespräsidenten",
+    "questionEnglish": "Who can citizens in Germany NOT directly elect?",
+    "answerEnglish": "the Federal President"
+  },
+  {
+    "id": "de-045",
+    "number": 45,
+    "question": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+    "answer": "Sozialversicherung",
+    "questionEnglish": "To which type of insurance does long-term care insurance belong?",
+    "answerEnglish": "Social insurance"
+  },
+  {
+    "id": "de-046",
+    "number": 46,
+    "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+    "answer": "Er baut Straßen und Schulen.",
+    "questionEnglish": "The German state has many tasks. Which task is included?",
+    "answerEnglish": "It builds roads and schools."
+  },
+  {
+    "id": "de-047",
+    "number": 47,
+    "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+    "answer": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+    "questionEnglish": "The German state has many tasks. Which task is NOT included?",
+    "answerEnglish": "It pays for vacations for all citizens."
+  },
+  {
+    "id": "de-048",
+    "number": 48,
+    "question": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+    "answer": "die Bürgerversammlung",
+    "questionEnglish": "Which body is NOT one of Germany's constitutional organs?",
+    "answerEnglish": "the citizens' assembly"
+  },
+  {
+    "id": "de-049",
+    "number": 49,
+    "question": "Wer bestimmt in Deutschland die Schulpolitik?",
+    "answer": "die Bundesländer",
+    "questionEnglish": "Who determines education policy in Germany?",
+    "answerEnglish": "the federal states"
+  },
+  {
+    "id": "de-050",
+    "number": 50,
+    "question": "Die Wirtschaftsform in Deutschland nennt man ...",
+    "answer": "soziale Marktwirtschaft.",
+    "questionEnglish": "The economic system in Germany is called …",
+    "answerEnglish": "social market economy."
+  },
+  {
+    "id": "de-051",
+    "number": 51,
+    "question": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass ...",
+    "answer": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+    "questionEnglish": "It is NOT part of a democratic constitutional state that …",
+    "answerEnglish": "people are arrested by a private police force without reason."
+  },
+  {
+    "id": "de-052",
+    "number": 52,
+    "question": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom ...",
+    "answer": "Volke aus.",
+    "questionEnglish": "What does 'popular sovereignty' mean? All state power emanates from the …",
+    "answerEnglish": "people."
+  },
+  {
+    "id": "de-053",
+    "number": 53,
+    "question": "Was bedeutet \"Rechtsstaat\" in Deutschland?",
+    "answer": "Der Staat muss die Gesetze einhalten.",
+    "questionEnglish": "What does 'constitutional state' (Rechtsstaat) mean in Germany?",
+    "answerEnglish": "The state must abide by the laws."
+  },
+  {
+    "id": "de-054",
+    "number": 54,
+    "question": "Was ist keine staatliche Gewalt in Deutschland?",
+    "answer": "Direktive",
+    "questionEnglish": "What is NOT a state power in Germany?",
+    "answerEnglish": "Directive"
+  },
+  {
+    "id": "de-055",
+    "number": 55,
+    "question": "Was zeigt dieses Bild?",
+    "answer": "den Bundestagssitz in Berlin",
+    "questionEnglish": "What does this picture show?",
+    "answerEnglish": "the Bundestag seat in Berlin",
+    "questionImage": {
+      "src": "/images/general/55.png",
+      "alt": "Offizielle Abbildung zu Frage 55",
+      "width": 311,
+      "height": 146
+    }
+  },
+  {
+    "id": "de-056",
+    "number": 56,
+    "question": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+    "answer": "Ordnungsamt",
+    "questionEnglish": "Which office belongs to local government administration in Germany?",
+    "answerEnglish": "Public order office"
+  },
+  {
+    "id": "de-057",
+    "number": 57,
+    "question": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
+    "answer": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion",
+    "questionEnglish": "Who is usually elected President of the German Bundestag?",
+    "answerEnglish": "a member of the strongest parliamentary group"
+  },
+  {
+    "id": "de-058",
+    "number": 58,
+    "question": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+    "answer": "die Bundespräsidentin/der Bundespräsident",
+    "questionEnglish": "Who appoints the ministers of the federal government in Germany?",
+    "answerEnglish": "the Federal President"
+  },
+  {
+    "id": "de-059",
+    "number": 59,
+    "question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+    "answer": "vor etwa 1700 Jahren",
+    "questionEnglish": "How many years ago was there first a Jewish community in the territory of present-day Germany?",
+    "answerEnglish": "about 1700 years ago"
+  },
+  {
+    "id": "de-060",
+    "number": 60,
+    "question": "In Deutschland gehören der Bundestag und der Bundesrat zur ...",
+    "answer": "Legislative.",
+    "questionEnglish": "In Germany, the Bundestag and the Bundesrat belong to the …",
+    "answerEnglish": "Legislative."
+  },
+  {
+    "id": "de-061",
+    "number": 61,
+    "question": "Was bedeutet \"Volkssouveränität\"?",
+    "answer": "Die Staatsgewalt geht vom Volke aus.",
+    "questionEnglish": "What does 'popular sovereignty' mean?",
+    "answerEnglish": "State power emanates from the people."
+  },
+  {
+    "id": "de-062",
+    "number": 62,
+    "question": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das ...",
+    "answer": "Landtagswahl",
+    "questionEnglish": "When the parliament of a German federal state is elected, it is called …",
+    "answerEnglish": "State parliament election."
+  },
+  {
+    "id": "de-063",
+    "number": 63,
+    "question": "Was gehört in Deutschland nicht zur Exekutive?",
+    "answer": "die Gerichte",
+    "questionEnglish": "What does NOT belong to the executive branch in Germany?",
+    "answerEnglish": "the courts"
+  },
+  {
+    "id": "de-064",
+    "number": 64,
+    "question": "Die Bundesrepublik Deutschland ist heute gegliedert in ...",
+    "answer": "Bund, Länder und Kommunen.",
+    "questionEnglish": "The Federal Republic of Germany is today divided into …",
+    "answerEnglish": "federal government, states, and municipalities."
+  },
+  {
+    "id": "de-065",
+    "number": 65,
+    "question": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, ...",
+    "answer": "das Bundeskabinett zu bilden.",
+    "questionEnglish": "It is NOT one of the tasks of the German Bundestag to …",
+    "answerEnglish": "form the federal cabinet."
+  },
+  {
+    "id": "de-066",
+    "number": 66,
+    "question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+    "answer": "Berlin und München",
+    "questionEnglish": "Which cities have the largest Jewish communities in Germany?",
+    "answerEnglish": "Berlin and Munich"
+  },
+  {
+    "id": "de-067",
+    "number": 67,
+    "question": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+    "answer": "Schulpolitik",
+    "questionEnglish": "What is primarily a task of the federal states in Germany?",
+    "answerEnglish": "Education policy"
+  },
+  {
+    "id": "de-068",
+    "number": 68,
+    "question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+    "answer": "weil es nach dem Grundgesetz seine Aufgabe ist",
+    "questionEnglish": "Why does the state control the school system in Germany?",
+    "answerEnglish": "because it is its task according to the Basic Law"
+  },
+  {
+    "id": "de-069",
+    "number": 69,
+    "question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+    "answer": "Gemeinden",
+    "questionEnglish": "The Federal Republic of Germany has a three-tier administrative structure. What is the lowest political level called?",
+    "answerEnglish": "Municipalities"
+  },
+  {
+    "id": "de-070",
+    "number": 70,
+    "question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?",
+    "answer": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.",
+    "questionEnglish": "German Federal President Gustav Heinemann hands Helmut Schmidt the certificate of appointment as German Federal Chancellor in 1974. What is one of the duties of the German Federal President?",
+    "answerEnglish": "He/She proposes the Chancellor for election.",
+    "questionImage": {
+      "src": "/images/general/70.png",
+      "alt": "Offizielle Abbildung zu Frage 70",
+      "width": 299,
+      "height": 181
+    }
+  },
+  {
+    "id": "de-071",
+    "number": 71,
+    "question": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf? Am häufigsten ist sie/er ...",
+    "answer": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+    "questionEnglish": "Where does the German Federal Chancellor spend most of their time? Most often they are …",
+    "answerEnglish": "in Berlin, because that's where the Federal Chancellery and the Bundestag are located."
+  },
+  {
+    "id": "de-072",
+    "number": 72,
+    "question": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+    "answer": "Friedrich Merz",
+    "questionEnglish": "What is the name of the current Federal Chancellor of Germany?",
+    "answerEnglish": "Friedrich Merz"
+  },
+  {
+    "id": "de-073",
+    "number": 73,
+    "question": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit ...",
+    "answer": "CDU/CSU und AfD.",
+    "questionEnglish": "The two largest parliamentary groups in the German Bundestag are currently called …",
+    "answerEnglish": "CDU/CSU and AfD."
+  },
+  {
+    "id": "de-074",
+    "number": 74,
+    "question": "Wie heißt das Parlament für ganz Deutschland?",
+    "answer": "Bundestag",
+    "questionEnglish": "What is the parliament for all of Germany called?",
+    "answerEnglish": "Bundestag"
+  },
+  {
+    "id": "de-075",
+    "number": 75,
+    "question": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+    "answer": "Frank-Walter Steinmeier",
+    "questionEnglish": "What is the name of Germany's current head of state?",
+    "answerEnglish": "Frank-Walter Steinmeier"
+  },
+  {
+    "id": "de-076",
+    "number": 76,
+    "question": "Was bedeutet die Abkürzung CDU in Deutschland?",
+    "answer": "Christlich Demokratische Union",
+    "questionEnglish": "What does the abbreviation CDU mean in Germany?",
+    "answerEnglish": "Christian Democratic Union"
+  },
+  {
+    "id": "de-077",
+    "number": 77,
+    "question": "Was ist die Bundeswehr?",
+    "answer": "die deutsche Armee",
+    "questionEnglish": "What is the Bundeswehr?",
+    "answerEnglish": "the German army"
+  },
+  {
+    "id": "de-078",
+    "number": 78,
+    "question": "Was bedeutet die Abkürzung SPD?",
+    "answer": "Sozialdemokratische Partei Deutschlands",
+    "questionEnglish": "What does the abbreviation SPD mean?",
+    "answerEnglish": "Social Democratic Party of Germany"
+  },
+  {
+    "id": "de-079",
+    "number": 79,
+    "question": "Was bedeutet die Abkürzung FDP in Deutschland?",
+    "answer": "Freie Demokratische Partei",
+    "questionEnglish": "What does the abbreviation FDP mean in Germany?",
+    "answerEnglish": "Free Democratic Party"
+  },
+  {
+    "id": "de-080",
+    "number": 80,
+    "question": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+    "answer": "Bundesverfassungsgericht",
+    "questionEnglish": "Which court in Germany is responsible for interpreting the Basic Law?",
+    "answerEnglish": "Federal Constitutional Court"
+  },
+  {
+    "id": "de-081",
+    "number": 81,
+    "question": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+    "answer": "der Bundestag",
+    "questionEnglish": "Who elects the Federal Chancellor in Germany?",
+    "answerEnglish": "the Bundestag"
+  },
+  {
+    "id": "de-082",
+    "number": 82,
+    "question": "Wer leitet das deutsche Bundeskabinett?",
+    "answer": "die Bundeskanzlerin/der Bundeskanzler",
+    "questionEnglish": "Who heads the German federal cabinet?",
+    "answerEnglish": "the Federal Chancellor"
+  },
+  {
+    "id": "de-083",
+    "number": 83,
+    "question": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+    "answer": "der Bundestag",
+    "questionEnglish": "Who elects the German Federal Chancellor?",
+    "answerEnglish": "the Bundestag"
+  },
+  {
+    "id": "de-084",
+    "number": 84,
+    "question": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er ...",
+    "answer": "repräsentiert das Land.",
+    "questionEnglish": "What is the main task of the German Federal President? He/She …",
+    "answerEnglish": "represents the country."
+  },
+  {
+    "id": "de-085",
+    "number": 85,
+    "question": "Wer bildet den deutschen Bundesrat?",
+    "answer": "die Regierungsvertreter der Bundesländer",
+    "questionEnglish": "Who forms the German Bundesrat?",
+    "answerEnglish": "the government representatives of the federal states"
+  },
+  {
+    "id": "de-086",
+    "number": 86,
+    "question": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
+    "answer": "die Bundesversammlung",
+    "questionEnglish": "Who elects the Federal President in Germany?",
+    "answerEnglish": "the Federal Assembly"
+  },
+  {
+    "id": "de-087",
+    "number": 87,
+    "question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+    "answer": "die Bundespräsidentin/der Bundespräsident",
+    "questionEnglish": "Who is the head of state of the Federal Republic of Germany?",
+    "answerEnglish": "the Federal President"
+  },
+  {
+    "id": "de-088",
+    "number": 88,
+    "question": "Die parlamentarische Opposition im Deutschen Bundestag ...",
+    "answer": "kontrolliert die Regierung.",
+    "questionEnglish": "The parliamentary opposition in the German Bundestag …",
+    "answerEnglish": "controls the government."
+  },
+  {
+    "id": "de-089",
+    "number": 89,
+    "question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+    "answer": "Fraktion",
+    "questionEnglish": "What is the association of members of parliament from one party called in Germany?",
+    "answerEnglish": "Parliamentary group (Fraktion)"
+  },
+  {
+    "id": "de-090",
+    "number": 90,
+    "question": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch ...",
+    "answer": "den Bundesrat.",
+    "questionEnglish": "The German federal states participate in federal legislation through …",
+    "answerEnglish": "the Bundesrat."
+  },
+  {
+    "id": "de-091",
+    "number": 91,
+    "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird ...",
+    "answer": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+    "questionEnglish": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing becomes …",
+    "answerEnglish": "more difficult if this changes the majority in the Bundesrat."
+  },
+  {
+    "id": "de-092",
+    "number": 92,
+    "question": "Was bedeutet die Abkürzung CSU in Deutschland?",
+    "answer": "Christlich Soziale Union",
+    "questionEnglish": "What does the abbreviation CSU mean in Germany?",
+    "answerEnglish": "Christian Social Union"
+  },
+  {
+    "id": "de-093",
+    "number": 93,
+    "question": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto ...",
+    "answer": "mehr Sitze erhält die Partei im Parlament.",
+    "questionEnglish": "The more 'second votes' a party gets in a federal election, the …",
+    "answerEnglish": "more seats the party receives in parliament."
+  },
+  {
+    "id": "de-094",
+    "number": 94,
+    "question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+    "answer": "18",
+    "questionEnglish": "From what age can you vote in the German Bundestag election?",
+    "answerEnglish": "18"
+  },
+  {
+    "id": "de-095",
+    "number": 95,
+    "question": "Was gilt für die meisten Kinder in Deutschland?",
+    "answer": "Schulpflicht",
+    "questionEnglish": "What applies to most children in Germany?",
+    "answerEnglish": "Compulsory education"
+  },
+  {
+    "id": "de-096",
+    "number": 96,
+    "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+    "answer": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+    "questionEnglish": "How can someone who denies the Holocaust be punished?",
+    "answerEnglish": "with imprisonment up to five years or a fine"
+  },
+  {
+    "id": "de-097",
+    "number": 97,
+    "question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+    "answer": "Sozialversicherung",
+    "questionEnglish": "What do you automatically pay in Germany when you are permanently employed?",
+    "answerEnglish": "Social insurance"
+  },
+  {
+    "id": "de-098",
+    "number": 98,
+    "question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ...",
+    "answer": "kann die Regierung ihre Mehrheit verlieren.",
+    "questionEnglish": "When members of the German Bundestag change their parliamentary group, ...",
+    "answerEnglish": "the government can lose its majority."
+  },
+  {
+    "id": "de-099",
+    "number": 99,
+    "question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+    "answer": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+    "questionEnglish": "Who pays for social insurance in Germany?",
+    "answerEnglish": "Employers and employees"
+  },
+  {
+    "id": "de-100",
+    "number": 100,
+    "question": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+    "answer": "die Lebensversicherung",
+    "questionEnglish": "What does NOT belong to statutory social insurance?",
+    "answerEnglish": "life insurance"
+  },
+  {
+    "id": "de-101",
+    "number": 101,
+    "question": "Gewerkschaften sind Interessenverbände der ...",
+    "answer": "Arbeitnehmerinnen und Arbeitnehmer.",
+    "questionEnglish": "Trade unions are interest groups of …",
+    "answerEnglish": "employees."
+  },
+  {
+    "id": "de-102",
+    "number": 102,
+    "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem ...",
+    "answer": "Bundesverdienstkreuz",
+    "questionEnglish": "What can you be honored with in the Federal Republic of Germany if you have achieved outstanding performance in political, economic, cultural, intellectual, or social fields? With the …",
+    "answerEnglish": "Federal Cross of Merit"
+  },
+  {
+    "id": "de-103",
+    "number": 103,
+    "question": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit ...",
+    "answer": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+    "questionEnglish": "What is referred to as 'traffic light coalition' in Germany? The cooperation …",
+    "answerEnglish": "of SPD, FDP and Alliance 90/The Greens in a government"
+  },
+  {
+    "id": "de-104",
+    "number": 104,
+    "question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+    "answer": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+    "questionEnglish": "A woman in Germany loses her job. What must NOT be the reason for this dismissal?",
+    "answerEnglish": "The woman is having a baby and her boss knows it."
+  },
+  {
+    "id": "de-105",
+    "number": 105,
+    "question": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+    "answer": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "questionEnglish": "What is a task of election helpers in Germany?",
+    "answerEnglish": "They count the votes after the election ends."
+  },
+  {
+    "id": "de-106",
+    "number": 106,
+    "question": "In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?",
+    "answer": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "questionEnglish": "In Germany, volunteer election helpers assist with elections. What is a task of election helpers?",
+    "answerEnglish": "They count the votes after the election ends."
+  },
+  {
+    "id": "de-107",
+    "number": 107,
+    "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "answer": "4 Jahre",
+    "questionEnglish": "For how many years is the Bundestag elected in Germany?",
+    "answerEnglish": "4 years"
+  },
+  {
+    "id": "de-108",
+    "number": 108,
+    "question": "Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der ...",
+    "answer": "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+    "questionEnglish": "In a federal election in Germany, everyone may vote who …",
+    "answerEnglish": "is a citizen of the Federal Republic of Germany and is at least 18 years old."
+  },
+  {
+    "id": "de-109",
+    "number": 109,
+    "question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+    "answer": "alle vier Jahre",
+    "questionEnglish": "How often are federal elections normally held in Germany?",
+    "answerEnglish": "every four years"
+  },
+  {
+    "id": "de-110",
+    "number": 110,
+    "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "answer": "4 Jahre",
+    "questionEnglish": "For how many years is the Bundestag elected in Germany?",
+    "answerEnglish": "4 years"
+  },
+  {
+    "id": "de-111",
+    "number": 111,
+    "question": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+    "answer": "der öffentliche Aufruf zur Vernichtung Israels",
+    "questionEnglish": "Which action related to the state of Israel is prohibited in Germany?",
+    "answerEnglish": "The public call for the destruction of Israel."
+  },
+  {
+    "id": "de-112",
+    "number": 112,
+    "question": "Die Wahlen in Deutschland sind ...",
+    "answer": "geheim.",
+    "questionEnglish": "Elections in Germany are …",
+    "answerEnglish": "secret."
+  },
+  {
+    "id": "de-113",
+    "number": 113,
+    "question": "Wahlen in Deutschland gewinnt die Partei, die ...",
+    "answer": "die meisten Stimmen bekommt.",
+    "questionEnglish": "Elections in Germany are won by the party that …",
+    "answerEnglish": "gets the most votes."
+  },
+  {
+    "id": "de-114",
+    "number": 114,
+    "question": "An demokratischen Wahlen in Deutschland teilzunehmen ist ...",
+    "answer": "ein Recht.",
+    "questionEnglish": "Participating in democratic elections in Germany is …",
+    "answerEnglish": "a right."
+  },
+  {
+    "id": "de-115",
+    "number": 115,
+    "question": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+    "answer": "Man kann wählen.",
+    "questionEnglish": "What does 'active suffrage' mean in Germany?",
+    "answerEnglish": "You can vote."
+  },
+  {
+    "id": "de-116",
+    "number": 116,
+    "question": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das ...",
+    "answer": "aktives Wahlrecht.",
+    "questionEnglish": "If you are allowed to vote in a federal election in Germany, that is called …",
+    "answerEnglish": "active suffrage."
+  },
+  {
+    "id": "de-117",
+    "number": 117,
+    "question": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+    "answer": "5%",
+    "questionEnglish": "What minimum percentage of second votes must parties receive to be elected to the German Bundestag?",
+    "answerEnglish": "5%"
+  },
+  {
+    "id": "de-118",
+    "number": 118,
+    "question": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+    "answer": "alle Menschen",
+    "questionEnglish": "Who can become a member of the approximately 40 Jewish Maccabi sports clubs?",
+    "answerEnglish": "all people"
+  },
+  {
+    "id": "de-119",
+    "number": 119,
+    "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+    "answer": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+    "questionEnglish": "Elections in Germany are free. What does that mean?",
+    "answerEnglish": "Every person can decide without coercion whether they want to vote and who they want to vote for."
+  },
+  {
+    "id": "de-120",
+    "number": 120,
+    "question": "Das Wahlsystem in Deutschland ist ein ...",
+    "answer": "Mehrheits- und Verhältniswahlrecht.",
+    "questionEnglish": "The electoral system in Germany is a …",
+    "answerEnglish": "majority and proportional representation system."
+  },
+  {
+    "id": "de-121",
+    "number": 121,
+    "question": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt ...",
+    "answer": "5%-Hürde.",
+    "questionEnglish": "A party wants to enter the German Bundestag. But it must have a minimum share of voter votes. This is called …",
+    "answerEnglish": "5% threshold."
+  },
+  {
+    "id": "de-122",
+    "number": 122,
+    "question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind ...",
+    "answer": "frei, gleich, geheim.",
+    "questionEnglish": "What principle do elections in Germany follow? Elections in Germany are …",
+    "answerEnglish": "free, equal, secret."
+  },
+  {
+    "id": "de-123",
+    "number": 123,
+    "question": "Was ist in Deutschland die \"5%-Hürde\"?",
+    "answer": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+    "questionEnglish": "What is the '5% threshold' in Germany?",
+    "answerEnglish": "Minimum share of voter votes to enter parliament"
+  },
+  {
+    "id": "de-124",
+    "number": 124,
+    "question": "Die Bundestagswahl in Deutschland ist die Wahl ...",
+    "answer": "des Parlaments für Deutschland.",
+    "questionEnglish": "The federal election in Germany is the election …",
+    "answerEnglish": "of the parliament for Germany."
+  },
+  {
+    "id": "de-125",
+    "number": 125,
+    "question": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, ...",
+    "answer": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+    "questionEnglish": "In a democracy, one function of regular elections is …",
+    "answerEnglish": "to enable a change of government according to the will of the majority of voters."
+  },
+  {
+    "id": "de-126",
+    "number": 126,
+    "question": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+    "answer": "eine Wahlbenachrichtigung von der Gemeinde",
+    "questionEnglish": "What do eligible voters in Germany receive before an election?",
+    "answerEnglish": "an election notification from the municipality"
+  },
+  {
+    "id": "de-127",
+    "number": 127,
+    "question": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil ...",
+    "answer": "viele kleine Parteien die Regierungsbildung erschweren.",
+    "questionEnglish": "Why is there a 5% threshold in the electoral law of the Federal Republic of Germany? It exists because …",
+    "answerEnglish": "many small parties make forming a government more difficult."
+  },
+  {
+    "id": "de-128",
+    "number": 128,
+    "question": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man ...",
+    "answer": "Abgeordnete.",
+    "questionEnglish": "Members of parliament who are elected by citizens are called …",
+    "answerEnglish": "representatives/delegates."
+  },
+  {
+    "id": "de-129",
+    "number": 129,
+    "question": "Vom Volk gewählt wird in Deutschland ...",
+    "answer": "der Bundestag.",
+    "questionEnglish": "In Germany, the people directly elect …",
+    "answerEnglish": "the Bundestag."
+  },
+  {
+    "id": "de-130",
+    "number": 130,
+    "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+    "answer": "1",
+    "questionEnglish": "Which ballot would be valid in a federal election?",
+    "answerEnglish": "1",
+    "questionImage": {
+      "src": "/images/general/130.png",
+      "alt": "Offizielle Abbildung zu Frage 130",
+      "width": 601,
+      "height": 492
+    }
+  },
+  {
+    "id": "de-131",
+    "number": 131,
+    "question": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister ...",
+    "answer": "das Oberhaupt einer Gemeinde.",
+    "questionEnglish": "In Germany, a mayor is …",
+    "answerEnglish": "the head of a municipality."
+  },
+  {
+    "id": "de-132",
+    "number": 132,
+    "question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+    "answer": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+    "questionEnglish": "Many people in Germany do volunteer work in their free time. What does that mean?",
+    "answerEnglish": "They work voluntarily and unpaid in clubs and associations."
+  },
+  {
+    "id": "de-133",
+    "number": 133,
+    "question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+    "answer": "Man kann durch Briefwahl seine Stimme abgeben.",
+    "questionEnglish": "What is allowed in federal and state elections in Germany?",
+    "answerEnglish": "You can cast your vote by mail."
+  },
+  {
+    "id": "de-134",
+    "number": 134,
+    "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+    "answer": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+    "questionEnglish": "They want to abolish the bus line you always take to work. What can you do to preserve the bus line?",
+    "answerEnglish": "I participate in a citizens' initiative to preserve the bus line or start an initiative myself."
+  },
+  {
+    "id": "de-135",
+    "number": 135,
+    "question": "Wen vertreten die Gewerkschaften in Deutschland?",
+    "answer": "Arbeitnehmerinnen und Arbeitnehmer",
+    "questionEnglish": "Who do trade unions represent in Germany?",
+    "answerEnglish": "employees"
+  },
+  {
+    "id": "de-136",
+    "number": 136,
+    "question": "Sie gehen in Deutschland zum Arbeitsgericht bei ...",
+    "answer": "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+    "questionEnglish": "You go to the labor court in Germany for …",
+    "answerEnglish": "unjustified dismissal by your boss."
+  },
+  {
+    "id": "de-137",
+    "number": 137,
+    "question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+    "answer": "das Arbeitsgericht",
+    "questionEnglish": "Which court is responsible for workplace conflicts in Germany?",
+    "answerEnglish": "the labor court"
+  },
+  {
+    "id": "de-138",
+    "number": 138,
+    "question": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+    "answer": "Kündigungsschutzklage erheben",
+    "questionEnglish": "What can I do in Germany if my employer has wrongfully dismissed me?",
+    "answerEnglish": "file an unfair dismissal claim"
+  },
+  {
+    "id": "de-139",
+    "number": 139,
+    "question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand ...",
+    "answer": "eine Straftat begangen hat und angeklagt wird.",
+    "questionEnglish": "When does a court case occur in Germany? When someone …",
+    "answerEnglish": "has committed a crime and is being prosecuted."
+  },
+  {
+    "id": "de-140",
+    "number": 140,
+    "question": "Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er ...",
+    "answer": "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+    "questionEnglish": "What does a lay judge do in Germany? He/She …",
+    "answerEnglish": "decides together with judges about guilt and punishment."
+  },
+  {
+    "id": "de-141",
+    "number": 141,
+    "question": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+    "answer": "eine Rechtsanwältin/ein Rechtsanwalt",
+    "questionEnglish": "Who advises people on legal matters and represents them in court in Germany?",
+    "answerEnglish": "a lawyer"
+  },
+  {
+    "id": "de-142",
+    "number": 142,
+    "question": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter ...",
+    "answer": "arbeitet an einem Gericht und spricht Urteile.",
+    "questionEnglish": "What is the main task of a judge in Germany? A judge …",
+    "answerEnglish": "works at a court and pronounces verdicts."
+  },
+  {
+    "id": "de-143",
+    "number": 143,
+    "question": "Eine Richterin/ein Richter in Deutschland gehört zur ...",
+    "answer": "Judikative.",
+    "questionEnglish": "A judge in Germany belongs to the …",
+    "answerEnglish": "judiciary."
+  },
+  {
+    "id": "de-144",
+    "number": 144,
+    "question": "Eine Richterin/ein Richter gehört in Deutschland zur ...",
+    "answer": "rechtsprechenden Gewalt.",
+    "questionEnglish": "A judge in Germany belongs to the …",
+    "answerEnglish": "judicial power."
+  },
+  {
+    "id": "de-145",
+    "number": 145,
+    "question": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die ...",
+    "answer": "Judikative",
+    "questionEnglish": "In Germany, state power is divided. For which branch of government does a judge work? For the …",
+    "answerEnglish": "judiciary."
+  },
+  {
+    "id": "de-146",
+    "number": 146,
+    "question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+    "answer": "Prozess",
+    "questionEnglish": "What do you call a proceeding before a court in Germany?",
+    "answerEnglish": "trial/process"
+  },
+  {
+    "id": "de-147",
+    "number": 147,
+    "question": "Was ist die Arbeit einer Richterin/eines Richters in Deutschland?",
+    "answer": "Recht sprechen",
+    "questionEnglish": "What is the work of a judge in Germany?",
+    "answerEnglish": "to administer justice"
+  },
+  {
+    "id": "de-148",
+    "number": 148,
+    "question": "Was ist eine Aufgabe der Polizei in Deutschland?",
+    "answer": "die Einhaltung von Gesetzen zu überwachen",
+    "questionEnglish": "What is a task of the police in Germany?",
+    "answerEnglish": "to monitor compliance with laws"
+  },
+  {
+    "id": "de-149",
+    "number": 149,
+    "question": "Was ist ein Beispiel für antisemitisches Verhalten?",
+    "answer": "den Holocaust leugnen",
+    "questionEnglish": "What is an example of antisemitic behavior?",
+    "answerEnglish": "denying the Holocaust"
+  },
+  {
+    "id": "de-150",
+    "number": 150,
+    "question": "Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist ...",
+    "answer": "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+    "questionEnglish": "A court lay judge in Germany is …",
+    "answerEnglish": "a volunteer judge."
+  },
+  {
+    "id": "de-151",
+    "number": 151,
+    "question": "Wer baute die Mauer in Berlin?",
+    "answer": "die DDR",
+    "questionEnglish": "Who built the Berlin Wall?",
+    "answerEnglish": "the GDR"
+  },
+  {
+    "id": "de-152",
+    "number": 152,
+    "question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+    "answer": "1933 bis 1945",
+    "questionEnglish": "When were the National Socialists with Adolf Hitler in power in Germany?",
+    "answerEnglish": "1933 to 1945"
+  },
+  {
+    "id": "de-153",
+    "number": 153,
+    "question": "Was war am 8. Mai 1945?",
+    "answer": "Ende des Zweiten Weltkriegs in Europa",
+    "questionEnglish": "What happened on May 8, 1945?",
+    "answerEnglish": "End of World War II in Europe"
+  },
+  {
+    "id": "de-154",
+    "number": 154,
+    "question": "Wann war der Zweite Weltkrieg zu Ende?",
+    "answer": "1945",
+    "questionEnglish": "When did World War II end?",
+    "answerEnglish": "1945"
+  },
+  {
+    "id": "de-155",
+    "number": 155,
+    "question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+    "answer": "1933 bis 1945",
+    "questionEnglish": "When were the National Socialists in power in Germany?",
+    "answerEnglish": "1933 to 1945"
+  },
+  {
+    "id": "de-156",
+    "number": 156,
+    "question": "In welchem Jahr wurde Hitler Reichskanzler?",
+    "answer": "1933",
+    "questionEnglish": "In what year did Hitler become Reich Chancellor?",
+    "answerEnglish": "1933"
+  },
+  {
+    "id": "de-157",
+    "number": 157,
+    "question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland ...",
+    "answer": "eine Diktatur.",
+    "questionEnglish": "The National Socialists with Adolf Hitler established in Germany in 1933 …",
+    "answerEnglish": "a dictatorship."
+  },
+  {
+    "id": "de-158",
+    "number": 158,
+    "question": "Das \"Dritte Reich\" war eine ...",
+    "answer": "Diktatur.",
+    "questionEnglish": "The 'Third Reich' was a …",
+    "answerEnglish": "dictatorship."
+  },
+  {
+    "id": "de-159",
+    "number": 159,
+    "question": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+    "answer": "freie Wahlen",
+    "questionEnglish": "What did NOT exist in Germany during the National Socialist period?",
+    "answerEnglish": "free elections"
+  },
+  {
+    "id": "de-160",
+    "number": 160,
+    "question": "Welcher Krieg dauerte von 1939 bis 1945?",
+    "answer": "der Zweite Weltkrieg",
+    "questionEnglish": "Which war lasted from 1939 to 1945?",
+    "answerEnglish": "World War II"
+  },
+  {
+    "id": "de-161",
+    "number": 161,
+    "question": "Was kennzeichnete den NS-Staat? Eine Politik ...",
+    "answer": "des staatlichen Rassismus",
+    "questionEnglish": "What characterized the Nazi state? A policy …",
+    "answerEnglish": "of state racism"
+  },
+  {
+    "id": "de-162",
+    "number": 162,
+    "question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch ...",
+    "answer": "das Attentat auf Hitler am 20. Juli 1944.",
+    "questionEnglish": "Claus Schenk Graf von Stauffenberg became famous for …",
+    "answerEnglish": "the assassination attempt on Hitler on July 20, 1944."
+  },
+  {
+    "id": "de-163",
+    "number": 163,
+    "question": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+    "answer": "1938",
+    "questionEnglish": "In what year did the National Socialists destroy synagogues and Jewish businesses in Germany?",
+    "answerEnglish": "1938"
+  },
+  {
+    "id": "de-164",
+    "number": 164,
+    "question": "Was passierte am 9. November 1938 in Deutschland?",
+    "answer": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+    "questionEnglish": "What happened on November 9, 1938 in Germany?",
+    "answerEnglish": "Jewish businesses and synagogues are destroyed by National Socialists and their supporters."
+  },
+  {
+    "id": "de-165",
+    "number": 165,
+    "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+    "answer": "Konrad Adenauer",
+    "questionEnglish": "What was the name of the first Federal Chancellor of the Federal Republic of Germany?",
+    "answerEnglish": "Konrad Adenauer"
+  },
+  {
+    "id": "de-166",
+    "number": 166,
+    "question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+    "answer": "bei den Montagsdemonstrationen 1989 in der DDR",
+    "questionEnglish": "At which demonstrations in Germany did people shout 'We are the people'?",
+    "answerEnglish": "at the Monday demonstrations in 1989 in the GDR"
+  },
+  {
+    "id": "de-167",
+    "number": 167,
+    "question": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+    "answer": "USA, Sowjetunion, Großbritannien, Frankreich",
+    "questionEnglish": "Which countries were called 'Allied Occupation Powers' in Germany after World War II?",
+    "answerEnglish": "USA, Soviet Union, Great Britain, France"
+  },
+  {
+    "id": "de-168",
+    "number": 168,
+    "question": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+    "answer": "Japan",
+    "questionEnglish": "Which country was NOT an 'Allied Occupation Power' in Germany?",
+    "answerEnglish": "Japan"
+  },
+  {
+    "id": "de-169",
+    "number": 169,
+    "question": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+    "answer": "1949",
+    "questionEnglish": "When was the Federal Republic of Germany founded?",
+    "answerEnglish": "1949"
+  },
+  {
+    "id": "de-170",
+    "number": 170,
+    "question": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+    "answer": "das Verbot von Parteien",
+    "questionEnglish": "What existed during the National Socialist period in Germany?",
+    "answerEnglish": "the banning of parties"
+  },
+  {
+    "id": "de-171",
+    "number": 171,
+    "question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft ...",
+    "answer": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+    "questionEnglish": "Social market economy means the economy …",
+    "answerEnglish": "is based on supply and demand, but the state ensures social balance."
+  },
+  {
+    "id": "de-172",
+    "number": 172,
+    "question": "In welcher Besatzungszone wurde die DDR gegründet? In der ...",
+    "answer": "sowjetischen Besatzungszone",
+    "questionEnglish": "In which occupation zone was the GDR founded? In the …",
+    "answerEnglish": "Soviet occupation zone."
+  },
+  {
+    "id": "de-173",
+    "number": 173,
+    "question": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied ...",
+    "answer": "der Europäischen Union (EU).",
+    "questionEnglish": "The Federal Republic of Germany is a founding member of …",
+    "answerEnglish": "the European Union (EU)."
+  },
+  {
+    "id": "de-174",
+    "number": 174,
+    "question": "Wann wurde die DDR gegründet?",
+    "answer": "1949",
+    "questionEnglish": "When was the GDR founded?",
+    "answerEnglish": "1949"
+  },
+  {
+    "id": "de-175",
+    "number": 175,
+    "question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+    "answer": "4",
+    "questionEnglish": "How many occupation zones were there in Germany after World War II?",
+    "answerEnglish": "4"
+  },
+  {
+    "id": "de-176",
+    "number": 176,
+    "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+    "answer": "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+    "questionEnglish": "How were Germany's occupation zones distributed after 1945?",
+    "answerEnglish": "1=Great Britain, 2=Soviet Union, 3=USA, 4=France",
+    "questionImage": {
+      "src": "/images/general/176.png",
+      "alt": "Offizielle Abbildung zu Frage 176",
+      "width": 400,
+      "height": 440
+    }
+  },
+  {
+    "id": "de-177",
+    "number": 177,
+    "question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+    "answer": "Berlin",
+    "questionEnglish": "Which German city was divided into four sectors after World War II?",
+    "answerEnglish": "Berlin"
+  },
+  {
+    "id": "de-178",
+    "number": 178,
+    "question": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+    "answer": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
+    "questionEnglish": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What circumstance was responsible for this?",
+    "answerEnglish": "The Soviet Union cut off all land traffic."
+  },
+  {
+    "id": "de-179",
+    "number": 179,
+    "question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+    "answer": "durch die bedingungslose Kapitulation Deutschlands",
+    "questionEnglish": "How did World War II officially end in Europe?",
+    "answerEnglish": "through Germany's unconditional surrender"
+  },
+  {
+    "id": "de-180",
+    "number": 180,
+    "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war ...",
+    "answer": "Konrad Adenauer.",
+    "questionEnglish": "The first Federal Chancellor of the Federal Republic of Germany was …",
+    "answerEnglish": "Konrad Adenauer."
+  },
+  {
+    "id": "de-181",
+    "number": 181,
+    "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+    "answer": "Er bat Polen und die polnischen Juden um Vergebung.",
+    "questionEnglish": "What did Willy Brandt want to express with his kneeling in the former Jewish ghetto in Warsaw in 1970?",
+    "answerEnglish": "He asked Poland and Polish Jews for forgiveness.",
+    "questionImage": {
+      "src": "/images/general/181.png",
+      "alt": "Offizielle Abbildung zu Frage 181",
+      "width": 499,
+      "height": 357
+    }
+  },
+  {
+    "id": "de-182",
+    "number": 182,
+    "question": "Wie heißt das jüdische Gebetshaus?",
+    "answer": "Synagoge",
+    "questionEnglish": "What is the Jewish house of worship called?",
+    "answerEnglish": "Synagogue"
+  },
+  {
+    "id": "de-183",
+    "number": 183,
+    "question": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+    "answer": "50er Jahre",
+    "questionEnglish": "When was the 'economic miracle' in the Federal Republic of Germany?",
+    "answerEnglish": "1950s"
+  },
+  {
+    "id": "de-184",
+    "number": 184,
+    "question": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+    "answer": "eine Resolution der Vereinten Nationen",
+    "questionEnglish": "On what legal basis was the State of Israel founded?",
+    "answerEnglish": "a United Nations resolution"
+  },
+  {
+    "id": "de-185",
+    "number": 185,
+    "question": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung ...",
+    "answer": "des Warschauer Pakts gegen den Westen",
+    "questionEnglish": "What did the expression 'Iron Curtain' stand for? For the isolation …",
+    "answerEnglish": "of the Warsaw Pact against the West."
+  },
+  {
+    "id": "de-186",
+    "number": 186,
+    "question": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+    "answer": "17. Juni",
+    "questionEnglish": "In 1953, there was an uprising in the GDR that was commemorated by a public holiday in the Federal Republic of Germany for a long time. When was that?",
+    "answerEnglish": "June 17"
+  },
+  {
+    "id": "de-187",
+    "number": 187,
+    "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+    "answer": "DDR",
+    "questionEnglish": "Which German state had a black-red-gold flag with hammer, compass, and wheat wreath?",
+    "answerEnglish": "GDR",
+    "questionImage": {
+      "src": "/images/general/187.png",
+      "alt": "Offizielle Abbildung zu Frage 187",
+      "width": 250,
+      "height": 150
+    }
+  },
+  {
+    "id": "de-188",
+    "number": 188,
+    "question": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+    "answer": "1961",
+    "questionEnglish": "In what year was the Berlin Wall built?",
+    "answerEnglish": "1961"
+  },
+  {
+    "id": "de-189",
+    "number": 189,
+    "question": "Wann baute die DDR die Mauer in Berlin?",
+    "answer": "1961",
+    "questionEnglish": "When did the GDR build the Berlin Wall?",
+    "answerEnglish": "1961"
+  },
+  {
+    "id": "de-190",
+    "number": 190,
+    "question": "Was bedeutet die Abkürzung DDR?",
+    "answer": "Deutsche Demokratische Republik",
+    "questionEnglish": "What does the abbreviation DDR (GDR) mean?",
+    "answerEnglish": "German Democratic Republic"
+  },
+  {
+    "id": "de-191",
+    "number": 191,
+    "question": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+    "answer": "1989",
+    "questionEnglish": "When was the Berlin Wall opened for everyone?",
+    "answerEnglish": "1989"
+  },
+  {
+    "id": "de-192",
+    "number": 192,
+    "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "answer": "Brandenburg",
+    "questionEnglish": "Which current German federal state formerly belonged to the territory of the GDR?",
+    "answerEnglish": "Brandenburg"
+  },
+  {
+    "id": "de-193",
+    "number": 193,
+    "question": "Von 1961 bis 1989 war Berlin ...",
+    "answer": "durch eine Mauer geteilt.",
+    "questionEnglish": "From 1961 to 1989, Berlin was …",
+    "answerEnglish": "divided by a wall."
+  },
+  {
+    "id": "de-194",
+    "number": 194,
+    "question": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen ...",
+    "answer": "Einheit.",
+    "questionEnglish": "On October 3rd, Germany celebrates the Day of German …",
+    "answerEnglish": "Unity."
+  },
+  {
+    "id": "de-195",
+    "number": 195,
+    "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "answer": "Sachsen-Anhalt",
+    "questionEnglish": "Which current German federal state formerly belonged to the territory of the GDR?",
+    "answerEnglish": "Saxony-Anhalt"
+  },
+  {
+    "id": "de-196",
+    "number": 196,
+    "question": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch ...",
+    "answer": "von einer Diktatur zur Demokratie.",
+    "questionEnglish": "Why is the period in autumn 1989 in the GDR called 'Die Wende' (The Turn)? During this time, the GDR changed politically …",
+    "answerEnglish": "from a dictatorship to democracy."
+  },
+  {
+    "id": "de-197",
+    "number": 197,
+    "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "answer": "Thüringen",
+    "questionEnglish": "Which current German federal state formerly belonged to the territory of the GDR?",
+    "answerEnglish": "Thuringia"
+  },
+  {
+    "id": "de-198",
+    "number": 198,
+    "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "answer": "Sachsen",
+    "questionEnglish": "Which current German federal state formerly belonged to the territory of the GDR?",
+    "answerEnglish": "Saxony"
+  },
+  {
+    "id": "de-199",
+    "number": 199,
+    "question": "Mit der Abkürzung \"Stasi\" meinte man in der DDR ...",
+    "answer": "das Ministerium für Staatssicherheit.",
+    "questionEnglish": "The abbreviation 'Stasi' in the GDR referred to …",
+    "answerEnglish": "the Ministry for State Security."
+  },
+  {
+    "id": "de-200",
+    "number": 200,
+    "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "answer": "Mecklenburg-Vorpommern",
+    "questionEnglish": "Which current German federal state formerly belonged to the territory of the GDR?",
+    "answerEnglish": "Mecklenburg-Western Pomerania"
+  },
+  {
+    "id": "de-201",
+    "number": 201,
+    "question": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+    "answer": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+    "questionEnglish": "Which of the following lists contains only federal states that belonged to the former GDR?",
+    "answerEnglish": "Mecklenburg-Western Pomerania, Brandenburg, Saxony, Saxony-Anhalt, Thuringia"
+  },
+  {
+    "id": "de-202",
+    "number": 202,
+    "question": "Zu wem gehörte die DDR im \"Kalten Krieg\"?",
+    "answer": "zum Warschauer Pakt",
+    "questionEnglish": "Who did the GDR belong to during the 'Cold War'?",
+    "answerEnglish": "to the Warsaw Pact"
+  },
+  {
+    "id": "de-203",
+    "number": 203,
+    "question": "Wie hieß das Wirtschaftssystem der DDR?",
+    "answer": "Planwirtschaft",
+    "questionEnglish": "What was the economic system of the GDR called?",
+    "answerEnglish": "Planned economy"
+  },
+  {
+    "id": "de-204",
+    "number": 204,
+    "question": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+    "answer": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+    "questionEnglish": "How did the Federal Republic of Germany and the GDR become one state?",
+    "answerEnglish": "Today's five eastern federal states joined the Federal Republic of Germany."
+  },
+  {
+    "id": "de-205",
+    "number": 205,
+    "question": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch ...",
+    "answer": "zur Europäischen Union.",
+    "questionEnglish": "With the GDR's accession to the Federal Republic of Germany, the new federal states now also belong to …",
+    "answerEnglish": "the European Union."
+  },
+  {
+    "id": "de-206",
+    "number": 206,
+    "question": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+    "answer": "an die Opfer des Nationalsozialismus",
+    "questionEnglish": "What do the so-called 'Stolpersteine' (stumbling stones) in Germany commemorate?",
+    "answerEnglish": "victims of National Socialism"
+  },
+  {
+    "id": "de-207",
+    "number": 207,
+    "question": "In welchem Militärbündnis war die DDR Mitglied?",
+    "answer": "im Warschauer Pakt",
+    "questionEnglish": "Which military alliance was the GDR a member of?",
+    "answerEnglish": "the Warsaw Pact"
+  },
+  {
+    "id": "de-208",
+    "number": 208,
+    "question": "Was war die \"Stasi\"?",
+    "answer": "der Geheimdienst der DDR",
+    "questionEnglish": "What was the 'Stasi'?",
+    "answerEnglish": "the secret service of the GDR"
+  },
+  {
+    "id": "de-209",
+    "number": 209,
+    "question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+    "answer": "Bild 4",
+    "questionEnglish": "Which was the coat of arms of the German Democratic Republic?",
+    "answerEnglish": "4",
+    "questionImage": {
+      "src": "/images/general/209.png",
+      "alt": "Offizielle Abbildung zu Frage 209",
+      "width": 200,
+      "height": 200
+    }
+  },
+  {
+    "id": "de-210",
+    "number": 210,
+    "question": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+    "answer": "landesweite Streiks und ein Volksaufstand",
+    "questionEnglish": "What happened on June 17, 1953 in the GDR?",
+    "answerEnglish": "nationwide strikes and a popular uprising"
+  },
+  {
+    "id": "de-211",
+    "number": 211,
+    "question": "Welcher Politiker steht für die \"Ostverträge\"?",
+    "answer": "Willy Brandt",
+    "questionEnglish": "Which politician is associated with the 'Ostverträge' (Eastern Treaties)?",
+    "answerEnglish": "Willy Brandt"
+  },
+  {
+    "id": "de-212",
+    "number": 212,
+    "question": "Wie heißt Deutschland mit vollem Namen?",
+    "answer": "Bundesrepublik Deutschland",
+    "questionEnglish": "What is Germany's full name?",
+    "answerEnglish": "Federal Republic of Germany"
+  },
+  {
+    "id": "de-213",
+    "number": 213,
+    "question": "Wie viele Einwohner hat Deutschland?",
+    "answer": "84 Millionen",
+    "questionEnglish": "How many inhabitants does Germany have?",
+    "answerEnglish": "84 million"
+  },
+  {
+    "id": "de-214",
+    "number": 214,
+    "question": "Welche Farben hat die deutsche Flagge?",
+    "answer": "schwarz-rot-gold",
+    "questionEnglish": "What colors does the German flag have?",
+    "answerEnglish": "black-red-gold"
+  },
+  {
+    "id": "de-215",
+    "number": 215,
+    "question": "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
+    "answer": "Helmut Kohl",
+    "questionEnglish": "Who is called the 'Chancellor of German Unity'?",
+    "answerEnglish": "Helmut Kohl"
+  },
+  {
+    "id": "de-216",
+    "number": 216,
+    "question": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+    "answer": "der Bundesadler",
+    "questionEnglish": "Which symbol can be seen in the plenary hall of the German Bundestag?",
+    "answerEnglish": "the Federal Eagle.",
+    "questionImage": {
+      "src": "/images/general/216.png",
+      "alt": "Offizielle Abbildung zu Frage 216",
+      "width": 261,
+      "height": 208
+    }
+  },
+  {
+    "id": "de-217",
+    "number": 217,
+    "question": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+    "answer": "1949 bis 1990",
+    "questionEnglish": "During which period did the German Democratic Republic (GDR) exist?",
+    "answerEnglish": "1949 to 1990"
+  },
+  {
+    "id": "de-218",
+    "number": 218,
+    "question": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+    "answer": "5",
+    "questionEnglish": "How many federal states were added to the Federal Republic of Germany at reunification in 1990?",
+    "answerEnglish": "5"
+  },
+  {
+    "id": "de-219",
+    "number": 219,
+    "question": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit ...",
+    "answer": "1990",
+    "questionEnglish": "The Federal Republic of Germany has had its current borders since …",
+    "answerEnglish": "1990."
+  },
+  {
+    "id": "de-220",
+    "number": 220,
+    "question": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+    "answer": "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)",
+    "questionEnglish": "January 27 is an official day of remembrance in Germany. What does this day commemorate?",
+    "answerEnglish": "the victims of National Socialism (liberation of Auschwitz extermination camp)"
+  },
+  {
+    "id": "de-221",
+    "number": 221,
+    "question": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+    "answer": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+    "questionEnglish": "Germany is a member of the Schengen Agreement. What does that mean?",
+    "answerEnglish": "Germans can travel to many European countries without passport control."
+  },
+  {
+    "id": "de-222",
+    "number": 222,
+    "question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "answer": "Schweiz",
+    "questionEnglish": "Which country is a neighboring country of Germany?",
+    "answerEnglish": "Switzerland"
+  },
+  {
+    "id": "de-223",
+    "number": 223,
+    "question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "answer": "Polen",
+    "questionEnglish": "Which country is a neighboring country of Germany?",
+    "answerEnglish": "Poland"
+  },
+  {
+    "id": "de-224",
+    "number": 224,
+    "question": "Was bedeutet die Abkürzung EU?",
+    "answer": "Europäische Union",
+    "questionEnglish": "What does the abbreviation EU mean?",
+    "answerEnglish": "European Union"
+  },
+  {
+    "id": "de-225",
+    "number": 225,
+    "question": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+    "answer": "Österreich",
+    "questionEnglish": "In which other country is there a large German-speaking population?",
+    "answerEnglish": "Austria"
+  },
+  {
+    "id": "de-226",
+    "number": 226,
+    "question": "Welche ist die Flagge der Europäischen Union?",
+    "answer": "Bild 2",
+    "questionEnglish": "Which is the flag of the European Union?",
+    "answerEnglish": "2",
+    "questionImage": {
+      "src": "/images/general/226.png",
+      "alt": "Offizielle Abbildung zu Frage 226",
+      "width": 400,
+      "height": 300
+    }
+  },
+  {
+    "id": "de-227",
+    "number": 227,
+    "question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "answer": "Dänemark",
+    "questionEnglish": "Which country is a neighboring country of Germany?",
+    "answerEnglish": "Denmark"
+  },
+  {
+    "id": "de-228",
+    "number": 228,
+    "question": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+    "answer": "Deutsche Wiedervereinigung",
+    "questionEnglish": "What is the accession of the GDR to the Federal Republic of Germany in 1990 generally called?",
+    "answerEnglish": "German Reunification"
+  },
+  {
+    "id": "de-229",
+    "number": 229,
+    "question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "answer": "Luxemburg",
+    "questionEnglish": "Which country is a neighboring country of Germany?",
+    "answerEnglish": "Luxembourg"
+  },
+  {
+    "id": "de-230",
+    "number": 230,
+    "question": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle ...",
+    "answer": "5 Jahre.",
+    "questionEnglish": "The European Parliament is elected regularly, namely every …",
+    "answerEnglish": "5 years."
+  },
+  {
+    "id": "de-231",
+    "number": 231,
+    "question": "Was bedeutet der Begriff \"europäische Integration\"?",
+    "answer": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
+    "questionEnglish": "What does the term 'European integration' mean?",
+    "answerEnglish": "The term means the unification of European states into the EU."
+  },
+  {
+    "id": "de-232",
+    "number": 232,
+    "question": "Wer wird bei der Europawahl gewählt?",
+    "answer": "die Abgeordneten des Europäischen Parlaments",
+    "questionEnglish": "Who is elected in the European election?",
+    "answerEnglish": "the members of the European Parliament"
+  },
+  {
+    "id": "de-233",
+    "number": 233,
+    "question": "Welches Land ist ein Nachbarland von Deutschland?",
+    "answer": "Tschechien",
+    "questionEnglish": "Which country is a neighboring country of Germany?",
+    "answerEnglish": "Czech Republic"
+  },
+  {
+    "id": "de-234",
+    "number": 234,
+    "question": "Wo ist ein Sitz des Europäischen Parlaments?",
+    "answer": "Straßburg",
+    "questionEnglish": "Where is the seat of the European Parliament?",
+    "answerEnglish": "Strasbourg"
+  },
+  {
+    "id": "de-235",
+    "number": 235,
+    "question": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
+    "answer": "Frieden und Sicherheit in den Ländern der EU",
+    "questionEnglish": "French President François Mitterrand and German Chancellor Helmut Kohl commemorate the dead of both World Wars together in Verdun. What goal of the European Union becomes clear at this meeting?",
+    "answerEnglish": "Peace and security in EU countries",
+    "questionImage": {
+      "src": "/images/general/235.png",
+      "alt": "Offizielle Abbildung zu Frage 235",
+      "width": 380,
+      "height": 260
+    }
+  },
+  {
+    "id": "de-236",
+    "number": 236,
+    "question": "Wie viele Mitgliedstaaten hat die EU heute?",
+    "answer": "27",
+    "questionEnglish": "How many member states does the EU have today?",
+    "answerEnglish": "27"
+  },
+  {
+    "id": "de-237",
+    "number": 237,
+    "question": "2007 wurde das 50-jährige Jubiläum der \"Römischen Verträge\" gefeiert. Was war der Inhalt der Verträge?",
+    "answer": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+    "questionEnglish": "In 2007, the 50th anniversary of the 'Treaties of Rome' was celebrated. What was the content of the treaties?",
+    "answerEnglish": "Founding of the European Economic Community (EEC)"
+  },
+  {
+    "id": "de-238",
+    "number": 238,
+    "question": "An welchen Orten arbeitet das Europäische Parlament?",
+    "answer": "Straßburg, Luxemburg und Brüssel",
+    "questionEnglish": "In which locations does the European Parliament work?",
+    "answerEnglish": "Strasbourg, Luxembourg, and Brussels"
+  },
+  {
+    "id": "de-239",
+    "number": 239,
+    "question": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+    "answer": "durch die \"Römischen Verträge\"",
+    "questionEnglish": "Through which treaties did the Federal Republic of Germany unite with other states to form the European Economic Community?",
+    "answerEnglish": "through the 'Treaties of Rome'"
+  },
+  {
+    "id": "de-240",
+    "number": 240,
+    "question": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+    "answer": "2002",
+    "questionEnglish": "Since when has Germany been paying with cash Euros?",
+    "answerEnglish": "2002"
+  },
+  {
+    "id": "de-241",
+    "number": 241,
+    "question": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+    "answer": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+    "questionEnglish": "Mrs. Seger is having a child. What must she do to receive parental allowance?",
+    "answerEnglish": "She must submit an application to the parental allowance office."
+  },
+  {
+    "id": "de-242",
+    "number": 242,
+    "question": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+    "answer": "die Eltern/die Erziehungsberechtigten",
+    "questionEnglish": "Who decides whether a child goes to kindergarten in Germany?",
+    "answerEnglish": "the parents / legal guardians"
+  },
+  {
+    "id": "de-243",
+    "number": 243,
+    "question": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+    "answer": "Sie müssen die Demonstration anmelden.",
+    "questionEnglish": "Maik and Sybille want to hold a street demonstration with friends at their German residence. What must they do beforehand?",
+    "answerEnglish": "They must register the demonstration."
+  },
+  {
+    "id": "de-244",
+    "number": 244,
+    "question": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+    "answer": "das Abitur",
+    "questionEnglish": "What school diploma is normally needed to begin studying at a university in Germany?",
+    "answerEnglish": "the Abitur (high school diploma)"
+  },
+  {
+    "id": "de-245",
+    "number": 245,
+    "question": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+    "answer": "Anne (13 Jahre) und Tim (25 Jahre)",
+    "questionEnglish": "Who is not allowed to live together as a couple in Germany?",
+    "answerEnglish": "Anne (13 years) and Tim (25 years)"
+  },
+  {
+    "id": "de-246",
+    "number": 246,
+    "question": "Ab welchem Alter ist man in Deutschland volljährig?",
+    "answer": "18",
+    "questionEnglish": "At what age is one legally an adult in Germany?",
+    "answerEnglish": "18"
+  },
+  {
+    "id": "de-247",
+    "number": 247,
+    "question": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+    "answer": "Mutterschutz",
+    "questionEnglish": "A woman is pregnant. She is specially protected by law shortly before and after the birth of her child. What is this protection called?",
+    "answerEnglish": "Maternity protection"
+  },
+  {
+    "id": "de-248",
+    "number": 248,
+    "question": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe ...",
+    "answer": "der Eltern.",
+    "questionEnglish": "Raising children in Germany is primarily the task of …",
+    "answerEnglish": "the parents."
+  },
+  {
+    "id": "de-249",
+    "number": 249,
+    "question": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+    "answer": "die Eltern",
+    "questionEnglish": "Who is primarily responsible for raising children in Germany?",
+    "answerEnglish": "the parents"
+  },
+  {
+    "id": "de-250",
+    "number": 250,
+    "question": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man ...",
+    "answer": "gut ausgebildet ist.",
+    "questionEnglish": "In Germany, you have the best chances for a well-paid job if you …",
+    "answerEnglish": "are well educated."
+  },
+  {
+    "id": "de-251",
+    "number": 251,
+    "question": "Wenn man in Deutschland ein Kind schlägt, ...",
+    "answer": "kann man dafür bestraft werden.",
+    "questionEnglish": "If you hit a child in Germany, …",
+    "answerEnglish": "you can be punished for it."
+  },
+  {
+    "id": "de-252",
+    "number": 252,
+    "question": "In Deutschland ...",
+    "answer": "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+    "questionEnglish": "In Germany …",
+    "answerEnglish": "you may only be married to one partner at a time."
+  },
+  {
+    "id": "de-253",
+    "number": 253,
+    "question": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+    "answer": "beim Einwohnermeldeamt",
+    "questionEnglish": "Where must you register if you move in Germany?",
+    "answerEnglish": "at the residents' registration office"
+  },
+  {
+    "id": "de-254",
+    "number": 254,
+    "question": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
+    "answer": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
+    "questionEnglish": "In Germany, married couples are allowed to divorce. Usually they must observe the 'separation year'. What does that mean?",
+    "answerEnglish": "The spouses lead their own lives separately for at least one year. After that, divorce is possible."
+  },
+  {
+    "id": "de-255",
+    "number": 255,
+    "question": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom ...",
+    "answer": "Jugendamt.",
+    "questionEnglish": "For parenting problems, parents in Germany can get help from the …",
+    "answerEnglish": "youth welfare office."
+  },
+  {
+    "id": "de-256",
+    "number": 256,
+    "question": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+    "answer": "eine Gaststättenerlaubnis von der zuständigen Behörde",
+    "questionEnglish": "A married couple wants to open a restaurant in Germany. What do they absolutely need?",
+    "answerEnglish": "a restaurant license from the responsible authority"
+  },
+  {
+    "id": "de-257",
+    "number": 257,
+    "question": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an ...",
+    "answer": "einem Abendgymnasium.",
+    "questionEnglish": "An adult woman wants to complete her Abitur in Germany. She can do this at …",
+    "answerEnglish": "an evening high school."
+  },
+  {
+    "id": "de-258",
+    "number": 258,
+    "question": "Was darf das Jugendamt in Deutschland?",
+    "answer": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+    "questionEnglish": "What is the youth welfare office allowed to do in Germany?",
+    "answerEnglish": "It can remove a child who is being beaten or must go hungry from the family."
+  },
+  {
+    "id": "de-259",
+    "number": 259,
+    "question": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der ...",
+    "answer": "Lehrstellensuche.",
+    "questionEnglish": "The Career Information Center (BIZ) at the Federal Employment Agency in Germany helps with …",
+    "answerEnglish": "searching for apprenticeships."
+  },
+  {
+    "id": "de-260",
+    "number": 260,
+    "question": "In Deutschland hat ein Kind in der Schule ...",
+    "answer": "Anwesenheitspflicht.",
+    "questionEnglish": "In Germany, a child in school has …",
+    "answerEnglish": "compulsory attendance."
+  },
+  {
+    "id": "de-261",
+    "number": 261,
+    "question": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An ...",
+    "answer": "einem Abendgymnasium.",
+    "questionEnglish": "A man wants to complete his Abitur in Germany at age 30. Where can he do this? At …",
+    "answerEnglish": "an evening high school"
+  },
+  {
+    "id": "de-262",
+    "number": 262,
+    "question": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+    "answer": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+    "questionEnglish": "What does the principle of equal treatment mean in Germany?",
+    "answerEnglish": "No one may be discriminated against, e.g. because of a disability."
+  },
+  {
+    "id": "de-263",
+    "number": 263,
+    "question": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, ...",
+    "answer": "werden bestraft.",
+    "questionEnglish": "In Germany, young people are criminally responsible from the age of 14. This means: young people who are 14 years and older and violate criminal laws …",
+    "answerEnglish": "are punished."
+  },
+  {
+    "id": "de-264",
+    "number": 264,
+    "question": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+    "answer": "am Rosenmontag",
+    "questionEnglish": "At which festival do people in Germany wear colorful costumes and masks?",
+    "answerEnglish": "on Carnival Monday"
+  },
+  {
+    "id": "de-265",
+    "number": 265,
+    "question": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+    "answer": "zum Standesamt",
+    "questionEnglish": "Where must you go first in Germany if you want to get married?",
+    "answerEnglish": "to the registry office"
+  },
+  {
+    "id": "de-266",
+    "number": 266,
+    "question": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+    "answer": "um 22 Uhr",
+    "questionEnglish": "When does the legal night quiet time begin in Germany?",
+    "answerEnglish": "at 10 PM"
+  },
+  {
+    "id": "de-267",
+    "number": 267,
+    "question": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+    "answer": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+    "questionEnglish": "A young woman in Germany, 22 years old, lives with her boyfriend. The woman's parents don't like it because they don't like the boyfriend. What can the parents do?",
+    "answerEnglish": "They must respect the decision of their adult daughter."
+  },
+  {
+    "id": "de-268",
+    "number": 268,
+    "question": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+    "answer": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+    "questionEnglish": "A young woman wants to get her driver's license. She is afraid of the exam because her native language is not German. What is correct?",
+    "answerEnglish": "She may be able to take the theory exam in her native language. There are more than ten languages to choose from."
+  },
+  {
+    "id": "de-269",
+    "number": 269,
+    "question": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf ...",
+    "answer": "einen Kindergartenplatz.",
+    "questionEnglish": "In Germany, children from the age of three until they start school have a right to …",
+    "answerEnglish": "a kindergarten place."
+  },
+  {
+    "id": "de-270",
+    "number": 270,
+    "question": "Die Volkshochschule in Deutschland ist eine Einrichtung ...",
+    "answer": "zur Weiterbildung.",
+    "questionEnglish": "The adult education center (Volkshochschule) in Germany is an institution …",
+    "answerEnglish": "for continuing education."
+  },
+  {
+    "id": "de-271",
+    "number": 271,
+    "question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+    "answer": "einen Tannenbaum schmücken",
+    "questionEnglish": "What is a Christmas tradition in Germany?",
+    "answerEnglish": "decorating a Christmas tree"
+  },
+  {
+    "id": "de-272",
+    "number": 272,
+    "question": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+    "answer": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
+    "questionEnglish": "Which way of life is not allowed in Germany?",
+    "answerEnglish": "A man is married to two women at the same time."
+  },
+  {
+    "id": "de-273",
+    "number": 273,
+    "question": "Bei Erziehungsproblemen gehen Sie in Deutschland ...",
+    "answer": "zum Jugendamt.",
+    "questionEnglish": "For parenting problems, you go in Germany to …",
+    "answerEnglish": "the youth welfare office."
+  },
+  {
+    "id": "de-274",
+    "number": 274,
+    "question": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+    "answer": "das Briefgeheimnis",
+    "questionEnglish": "You deliberately opened a letter in Germany that was addressed to another person. What did you not observe?",
+    "answerEnglish": "the secrecy of correspondence"
+  },
+  {
+    "id": "de-275",
+    "number": 275,
+    "question": "Was braucht man in Deutschland für eine Ehescheidung?",
+    "answer": "die Unterstützung einer Anwältin/eines Anwalts",
+    "questionEnglish": "What do you need for a divorce in Germany?",
+    "answerEnglish": "the support of a lawyer"
+  },
+  {
+    "id": "de-276",
+    "number": 276,
+    "question": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+    "answer": "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.",
+    "questionEnglish": "What should you do if you are treated badly by your contact person at a German authority?",
+    "answerEnglish": "I can complain to the head of the authority."
+  },
+  {
+    "id": "de-277",
+    "number": 277,
+    "question": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie ...",
+    "answer": "Mutter ist.",
+    "questionEnglish": "A woman with a two-year-old child applies for a job in Germany. What is an example of discrimination? She doesn't get the job only because she …",
+    "answerEnglish": "is a mother."
+  },
+  {
+    "id": "de-278",
+    "number": 278,
+    "question": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er ...",
+    "answer": "im Rollstuhl sitzt.",
+    "questionEnglish": "A man in a wheelchair has applied for a job as an accountant. What is an example of discrimination? He doesn't get the job only because he …",
+    "answerEnglish": "is in a wheelchair."
+  },
+  {
+    "id": "de-279",
+    "number": 279,
+    "question": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt ...",
+    "answer": "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+    "questionEnglish": "In most apartment buildings in Germany, there is a 'house rules' document. What does such a 'house rules' document contain? It lists …",
+    "answerEnglish": "rules that all residents must follow."
+  },
+  {
+    "id": "de-280",
+    "number": 280,
+    "question": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie ...",
+    "answer": "Einspruch einlegen.",
+    "questionEnglish": "If you want to dispute an incorrect tax assessment in Germany, you must …",
+    "answerEnglish": "file an objection."
+  },
+  {
+    "id": "de-281",
+    "number": 281,
+    "question": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf ...",
+    "answer": "Gleichbehandlung",
+    "questionEnglish": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are therefore not allowed in. Which right is violated in this situation? The right to …",
+    "answerEnglish": "equal treatment"
+  },
+  {
+    "id": "de-282",
+    "number": 282,
+    "question": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+    "answer": "Wahlhelferin/Wahlhelfer",
+    "questionEnglish": "Which voluntary office must German citizens take on when asked to do so?",
+    "answerEnglish": "election helper"
+  },
+  {
+    "id": "de-283",
+    "number": 283,
+    "question": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+    "answer": "Ich lege Widerspruch bei der Behörde ein.",
+    "questionEnglish": "What do you do if you receive an incorrect bill from a German authority?",
+    "answerEnglish": "I file an objection with the authority."
+  },
+  {
+    "id": "de-284",
+    "number": 284,
+    "question": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+    "answer": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+    "questionEnglish": "What you need to know for work changes very quickly in the future. What can you do?",
+    "answerEnglish": "Adults must continue to learn even after their education."
+  },
+  {
+    "id": "de-285",
+    "number": 285,
+    "question": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+    "answer": "Umsatzsteuer",
+    "questionEnglish": "Mrs. Frost works as a permanent employee in an office. What does she not have to pay from her salary?",
+    "answerEnglish": "sales tax"
+  },
+  {
+    "id": "de-286",
+    "number": 286,
+    "question": "Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+    "answer": "der Betriebsrat",
+    "questionEnglish": "Which organization in a company helps employees with problems with the employer?",
+    "answerEnglish": "the works council"
+  },
+  {
+    "id": "de-287",
+    "number": 287,
+    "question": "Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+    "answer": "die Kündigungsfrist",
+    "questionEnglish": "You want to end your employment at a company in Germany. What must you observe?",
+    "answerEnglish": "the notice period"
+  },
+  {
+    "id": "de-288",
+    "number": 288,
+    "question": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+    "answer": "aus den nationalsozialistischen Verbrechen gegen Juden",
+    "questionEnglish": "What is Germany's special responsibility for Israel based on?",
+    "answerEnglish": "National Socialist crimes against Jews"
+  },
+  {
+    "id": "de-289",
+    "number": 289,
+    "question": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil ...",
+    "answer": "er eine dunkle Haut hat.",
+    "questionEnglish": "A man with dark skin applies for a job as a waiter in a restaurant in Germany. What is an example of discrimination? He doesn't get the job only because …",
+    "answerEnglish": "he has dark skin."
+  },
+  {
+    "id": "de-290",
+    "number": 290,
+    "question": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+    "answer": "den Fernseher reklamieren",
+    "questionEnglish": "You bought a television in Germany. At home you unpack the television, but it doesn't work. The television is broken. What can you do?",
+    "answerEnglish": "file a complaint about the television"
+  },
+  {
+    "id": "de-291",
+    "number": 291,
+    "question": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil ...",
+    "answer": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+    "questionEnglish": "Why do you have to state in your tax return in Germany whether you belong to a church or not? Because …",
+    "answerEnglish": "there is a church tax that is linked to income and wage tax."
+  },
+  {
+    "id": "de-292",
+    "number": 292,
+    "question": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+    "answer": "Jeder kann glauben, was er möchte.",
+    "questionEnglish": "People in Germany live according to the principle of religious tolerance. What does that mean?",
+    "answerEnglish": "Everyone can believe what they want."
+  },
+  {
+    "id": "de-293",
+    "number": 293,
+    "question": "Was ist in Deutschland ein Brauch zu Ostern?",
+    "answer": "Eier bemalen",
+    "questionEnglish": "What is an Easter tradition in Germany?",
+    "answerEnglish": "painting eggs"
+  },
+  {
+    "id": "de-294",
+    "number": 294,
+    "question": "Pfingsten ist ein ...",
+    "answer": "christlicher Feiertag.",
+    "questionEnglish": "Pentecost is a …",
+    "answerEnglish": "Christian holiday."
+  },
+  {
+    "id": "de-295",
+    "number": 295,
+    "question": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+    "answer": "das Christentum",
+    "questionEnglish": "Which religion has shaped European and German culture?",
+    "answerEnglish": "Christianity"
+  },
+  {
+    "id": "de-296",
+    "number": 296,
+    "question": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten ...",
+    "answer": "die Adventszeit.",
+    "questionEnglish": "In Germany, the last four weeks before Christmas are called …",
+    "answerEnglish": "Advent season."
+  },
+  {
+    "id": "de-297",
+    "number": 297,
+    "question": "Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?",
+    "answer": "Türkei",
+    "questionEnglish": "From which country have most migrants come to Germany?",
+    "answerEnglish": "Turkey"
+  },
+  {
+    "id": "de-298",
+    "number": 298,
+    "question": "In der DDR lebten vor allem Migrantinnen und Migranten aus ...",
+    "answer": "Vietnam, Polen, Mosambik.",
+    "questionEnglish": "In the GDR, migrants mainly came from …",
+    "answerEnglish": "Vietnam, Poland, Mozambique."
+  },
+  {
+    "id": "de-299",
+    "number": 299,
+    "question": "Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man ...",
+    "answer": "Gastarbeiterinnen/Gastarbeiter.",
+    "questionEnglish": "Foreign workers who were recruited by the Federal Republic of Germany in the 1950s and 1960s were called …",
+    "answerEnglish": "guest workers"
+  },
+  {
+    "id": "de-300",
+    "number": 300,
+    "question": "Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?",
+    "answer": "Italien",
+    "questionEnglish": "From which country did the first guest workers come to the Federal Republic of Germany?",
+    "answerEnglish": "Italy"
+  }
+]

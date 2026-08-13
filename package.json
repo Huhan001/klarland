@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "check:catalogue": "node scripts/check-catalogue.mjs",
     "start": "next start",
     "lint": "eslint"
   },
