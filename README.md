@@ -21,6 +21,20 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## GitHub Pages
+
+The website is deployed to [huhan001.github.io/klarland](https://huhan001.github.io/klarland/) by `.github/workflows/deploy-pages.yml` whenever `main` changes. In the repository's **Settings → Pages**, the publishing source must be **GitHub Actions**.
+
+`npm run build` exports a static website to `out/`. The deployment workflow supplies `NEXT_PUBLIC_BASE_PATH` from GitHub Pages so scripts, styles, and exam illustrations work under `/klarland`. Local development uses the root path by default. Next.js image optimization is disabled because GitHub Pages does not run a server.
+
+To build locally with the same path as the hosted website:
+
+```bash
+NEXT_PUBLIC_BASE_PATH=/klarland npm run build
+```
+
+Study progress stays in the visitor's current browser and does not sync across devices.
+
 ## Quality checks
 
 ```bash

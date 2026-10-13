@@ -17,6 +17,7 @@ type SavedPosition = { collection: "general" | "hessen"; index: number };
 
 const generalQuestions = generalQuestionData as StudyQuestion[];
 const allQuestions = [...generalQuestions, ...hessenQuestions];
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const PROGRESS_STORAGE_KEY = "klarland:progress-v2";
 const POSITION_STORAGE_KEY = "klarland:position-v2";
 const LEGACY_PROGRESS_STORAGE_KEY = "klarland:hessen-progress";
@@ -476,7 +477,7 @@ export function StudyApp() {
               {currentQuestion.questionImage && (
                 <figure className="question-figure map-figure">
                   <Image
-                    src={currentQuestion.questionImage.src}
+                    src={`${BASE_PATH}${currentQuestion.questionImage.src}`}
                     alt={currentQuestion.questionImage.alt}
                     width={currentQuestion.questionImage.width}
                     height={currentQuestion.questionImage.height}
@@ -501,7 +502,7 @@ export function StudyApp() {
                   {currentQuestion.answerImage && (
                     <Image
                       className="answer-image"
-                      src={currentQuestion.answerImage.src}
+                      src={`${BASE_PATH}${currentQuestion.answerImage.src}`}
                       alt={currentQuestion.answerImage.alt}
                       width={currentQuestion.answerImage.width}
                       height={currentQuestion.answerImage.height}
